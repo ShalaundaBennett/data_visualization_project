@@ -1,7 +1,5 @@
-# data_visualization_project
-This project displays a data visualization project for MSDS.
 
-# 🍷 Wine Data Visualization with Python
+# Data Visualization with Python
 
 ## Overview
 
